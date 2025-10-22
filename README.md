@@ -45,12 +45,14 @@ These insights can help AtliQ Mart make informed decisions for future promotiona
 
 - Give priority to cities with the highest incremental revenue percentage, especially Madurai, Chennai, and Bengaluru.
 
-### Promotion Type Analysis
+## Promotion Type Insights
+- Leverage Effective Promotion Types: Focus on successful promotions like ₹500 Cashback and BOGOF (Buy One Get One Free), as they have a strong positive impact on Incremental Revenue and Unit Sales.
 
-- **Top 2 Promotion Types by Incremental Revenue:** Determine the top-performing promotion types that resulted in the highest incremental revenue.
-- **Bottom 2 Promotion Types by Incremental Sold Units:** Identify the least effective promotion types in terms of their impact on incremental sold units.
-- **Comparison of Promotion Types:** Analyze the performance differences between discount-based promotions, BOGOF (Buy One Get One Free), and cashback promotions.
-- **Optimal Promotion Type:** Determine which promotions strike the best balance between incremental sold units and maintaining healthy margins.
+- Avoid Ineffective Discounts: Avoid running discount-based promotions, especially 25% OFF and 33% OFF, since they have shown limited impact on revenue growth.
+
+- Optimize Seasonal Promotions: Concentrate on improving Diwali promotions, as they generate higher revenue compared to Sankranti. Adjust strategies to make the most of this festive period.
+
+
 
 ### Product and Category Analysis
 
