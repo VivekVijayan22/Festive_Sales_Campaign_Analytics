@@ -56,9 +56,8 @@ These insights can help AtliQ Mart make informed decisions for future promotiona
 
 ### Product and Category Analysis
 
-- **High-Lifting Product Categories:** Identify product categories that saw significant increases in sales from the promotions.
-- **Product Responsiveness to Promotions:** Analyze specific products that respond exceptionally well or poorly to promotions.
-- **Correlation between Product Category and Promotion Type Effectiveness:** Investigate the relationship between product categories and the effectiveness of different promotion types.
+- Maximize Revenue from High-Performing Categories: Allocate resources towards categories with the highest incremental revenue growth, such as Home Appliances and Home Care.
+- Promote Top Revenue Generating Products: Focus on products like the Atliq Waterproof Immersion Rod, Atliq LED Bulb and Atliq Double Bedsheet Set to capitalize on their strong revenue contributions. Thank
 
 
 ## Future Work
