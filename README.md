@@ -21,6 +21,7 @@ The analysis is based on data obtained from AtliQ Mart's internal databases. The
 
 ![Data Model](Sales_Data_model.png)
 
+
 ## Limitations and Challenges
 
 One significant limitation encountered during the analysis is related to the handling of promotions with the 'BOGOF' (Buy One Get One Free) promotion type. The dataset does not accurately account for the quantity of the free item provided as part of the promotion. This limitation may lead to some discrepancies or misunderstandings in the analysis, particularly when evaluating the effectiveness of 'BOGOF' promotions and comparing them with other promotion types.
