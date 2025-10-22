@@ -57,7 +57,8 @@ These insights can help AtliQ Mart make informed decisions for future promotiona
 ### Product and Category Analysis
 
 - Maximize Revenue from High-Performing Categories: Allocate resources towards categories with the highest incremental revenue growth, such as Home Appliances and Home Care.
-- Promote Top Revenue Generating Products: Focus on products like the Atliq Waterproof Immersion Rod, Atliq LED Bulb and Atliq Double Bedsheet Set to capitalize on their strong revenue contributions. Thank
+  
+- Promote Top Revenue Generating Products: Focus on products like the Atliq Waterproof Immersion Rod, Atliq LED Bulb and Atliq Double Bedsheet Set to capitalize on their strong revenue contributions.
 
 
 ## Future Work
