@@ -33,19 +33,17 @@ The analysis revealed several key insights:
 
 These insights can help AtliQ Mart make informed decisions for future promotional activities, optimize resource allocation, and improve overall sales performance.
 
-## Conclusion
+## Store Performance Analysis
 
-Overall, the analysis provides valuable insights into the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, AtliQ Mart can enhance its marketing strategies, attract more customers, and drive higher sales during festive seasons.
+- Bengaluru has the highest number of stores (10), followed by Chennai (8) and Hyderabad (7).
 
-## Additional Insights
+- The top 10 stores generating the highest incremental revenue are mainly located in Bengaluru, Chennai, and Mysuru.
 
-In addition to the main business requests, the following recommended insights were explored during the analysis:
+ - The bottom 10 stores with the lowest incremental sold units (ISU) are mostly from Trivandrum, Mangalore, and Vijayawada.
 
-### Store Performance Analysis
+- Focus on categories that bring the highest Incremental Revenue (IR) — such as Grocery & Staples, Home Appliances, and Combo1.
 
-- **Top 10 Stores by Incremental Revenue (IR):** Identify the top-performing stores in terms of incremental revenue generated from promotions.
-- **Bottom 10 Stores by Incremental Sold Units (ISU):** Identify the stores with the lowest performance in terms of incremental sold units during the promotional period.
-- **City-wise Store Performance:** Analyze how store performance varies by city and identify any common characteristics among top-performing stores.
+- Give priority to cities with the highest incremental revenue percentage, especially Madurai, Chennai, and Bengaluru.
 
 ### Promotion Type Analysis
 
