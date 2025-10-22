@@ -5,7 +5,7 @@
 
 This repository contains the SQL scripts used to analyze the performance of promotional campaigns run by AtliQ Mart during Diwali 2023 and Sankranti 2024. The project addresses various business requests related to identifying high-value discounted products, store distribution, campaign effectiveness, and product performance in terms of incremental sales and revenue.
 
-## Introduction
+## Objective
 
 Promotional campaigns play a crucial role in the retail industry, driving sales and attracting customers during festive seasons. This project aims to analyze the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, we seek to gain insights into the effectiveness of these campaigns and provide recommendations for optimizing future marketing strategies.
 
@@ -20,11 +20,6 @@ The analysis is based on data obtained from AtliQ Mart's internal databases. The
 3. Insights are intended to inform future promotional strategies and resource allocation.
 # Data Model
 ![Data Model](Sales_Data_model.png)
-
-
-## Limitations and Challenges
-
-One significant limitation encountered during the analysis is related to the handling of promotions with the 'BOGOF' (Buy One Get One Free) promotion type. The dataset does not accurately account for the quantity of the free item provided as part of the promotion. This limitation may lead to some discrepancies or misunderstandings in the analysis, particularly when evaluating the effectiveness of 'BOGOF' promotions and comparing them with other promotion types.
 
 ## Results and Insights
 
