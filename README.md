@@ -19,7 +19,7 @@ The analysis is based on data obtained from AtliQ Mart's internal databases. The
 2. Performed SQL queries to fulfill five business requests.
 3. Insights are intended to inform future promotional strategies and resource allocation.
 
-
+![Data Model](Sales_Data_model.png)
 
 ## Limitations and Challenges
 
