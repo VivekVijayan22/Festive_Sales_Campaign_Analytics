@@ -1,13 +1,9 @@
 # Festive Sales Promotion Analytics Dashboard
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGI4NDFlZDgtODZjMS00OTVkLTgzMDctZmM3ZGRiOGVkMjc3IiwidCI6IjAzMWEzYmJjLWNmN2MtNGUyYi05NmVjLTg2NzU1NTU0MGExYyJ9)
-
-# AtliQ Mart’s Diwali & Sankranti Promotions!
-
-This repository contains the SQL scripts used to analyze the performance of promotional campaigns run by AtliQ Mart during Diwali 2023 and Sankranti 2024. The project addresses various business requests related to identifying high-value discounted products, store distribution, campaign effectiveness, and product performance in terms of incremental sales and revenue.
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGI4NDFlZDgtODZjMS00OTVkLTgzMDctZmM3ZGRiOGVkMjc3IiwidCI6IjAzMWEzYmJjLWNmN2MtNGUyYi05NmVjLTg2NzU1NTU0MGExYyJ9) 
 
 ## Objective
 
-Promotional campaigns play a crucial role in the retail industry, driving sales and attracting customers during festive seasons. This project aims to analyze the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, we seek to gain insights into the effectiveness of these campaigns and provide recommendations for optimizing future marketing strategies.
+Promotional campaigns play a crucial role in the retail industry, driving sales and attracting customers during festive seasons. This project aims to analyze the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024 to identifying high-value discounted products, store distribution, campaign effectiveness, and product performance in terms of incremental sales and revenue. By leveraging data analytics, we seek to gain insights into the effectiveness of these campaigns and provide recommendations for optimizing future marketing strategies.
 
 ## Data Sources
 
