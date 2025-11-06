@@ -14,6 +14,12 @@ The analysis is based on data obtained from AtliQ Mart's internal databases. The
 1. Analyzed data from AtliQ Mart's internal databases.
 2. Performed SQL queries to fulfill five business requests.
 3. Insights are intended to inform future promotional strategies and resource allocation.
+
+
+## Tech Stack
+- **Power BI**: For Data Modelling and Data Visualization
+- **SQL**: MySQL for data wrangling, joins, EDA, data engineering and KPI generation   
+- **Excel**: For data cleaning and preprocessing
 # Data Model
 ![Data Model](Sales_Data_model.png)
 
